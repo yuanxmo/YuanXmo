@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @xpu-yuan
+- 👋 Hi, I’m YuanXMo
 - 👀 I’m interested in algorithm
 - 🌱 I’m currently learning Data structure
 - 📫 email: 1764187345@qq.com
