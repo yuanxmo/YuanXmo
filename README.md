@@ -1,4 +1,3 @@
 - 👋 Hi, I’m YuanXMo
-- 👀 I’m interested in algorithm
-- 🌱 I’m currently learning Data structure
-- 📫 email: 1764187345@qq.com
+- 📫 email: yxm8880707@163.com
+- 一名普普通通的大学生
